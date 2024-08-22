@@ -1,17 +1,36 @@
 # ore-m1miner-paranoid
-Simple sh script to dockerise m1miner since the source of the binary are not open
 
+A simple shell script to dockerize `m1miner` since the source of the binary is not open.
 
+## Prerequisites
+
+Make sure `sshpass` is installed:
+
+```bash
 sudo apt-get install sshpass
+```
 
+Clone the repository:
+```bash
 git clone https://github.com/Grrraou/ore-m1miner-paranoid.git
+```
+
+Navigate to the cloned directory:
+```bash
 cd ore-m1miner-paranoid
+```
+
+Make the script executable:
+```bash
 chmod +x m1miner.sh
+```
+
+Run the script:
+```bash
 ./m1miner.sh
+```
 
-
-
-pool: http://m1pool.xyz/#/en
-thread: https://discord.com/channels/1226038272673841236/1274005483019309108/threads/1274019501389910016
-
-Thanks to milo for being paranoid
+Resources
+Pool: http://m1pool.xyz/#/en
+Thread: Discord Thread
+Thanks to Milo for being paranoid.
