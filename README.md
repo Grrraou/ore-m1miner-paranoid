@@ -6,6 +6,8 @@ A simple shell script to dockerize `m1miner` since the source of the binary is n
 
 ## Prerequisites
 
+CUSTOMIZE YOUR SOLANA ADDRESS on line 6 !!!
+
 Clone the repository:
 ```bash
 git clone https://github.com/Grrraou/ore-m1miner-paranoid.git
