@@ -30,7 +30,10 @@ Run the script:
 ./m1miner.sh
 ```
 
-Resources
+Resources:
+
 Pool: http://m1pool.xyz/#/en
-Thread: Discord Thread
+
+Thread: [Discord Thread](https://discord.com/channels/1226038272673841236/1274005483019309108/threads/1274019501389910016)
+
 Thanks to Milo for being paranoid.
