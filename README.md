@@ -4,12 +4,6 @@ A simple shell script to dockerize `m1miner` since the source of the binary is n
 
 ## Prerequisites
 
-Make sure `sshpass` is installed:
-
-```bash
-sudo apt-get install sshpass
-```
-
 Clone the repository:
 ```bash
 git clone https://github.com/Grrraou/ore-m1miner-paranoid.git
